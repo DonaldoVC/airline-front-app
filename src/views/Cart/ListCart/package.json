@@ -1,0 +1,6 @@
+{
+  "name": "ListCart",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ListCart.tsx"
+}
