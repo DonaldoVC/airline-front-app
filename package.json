@@ -29,7 +29,13 @@
     "tailwind-plugin-line-clamp": "^1.1.2",
     "typescript": "^4.1.2",
     "uuid": "^8.3.2",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "@tailwindcss/postcss7-compat": "^2.1.2",
+    "@types/react-router-dom": "^5.1.7",
+    "@types/uuid": "^8.3.0",
+    "autoprefixer": "^9",
+    "postcss": "^7",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
   },
   "scripts": {
     "start": "craco start",
@@ -54,13 +60,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@tailwindcss/postcss7-compat": "^2.1.2",
-    "@types/react-router-dom": "^5.1.7",
-    "@types/uuid": "^8.3.0",
-    "autoprefixer": "^9",
-    "postcss": "^7",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
   }
 }
